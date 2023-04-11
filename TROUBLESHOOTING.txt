@@ -1,0 +1,3 @@
+cd into the other countdown-sign, theres a subfolder
+
+run npm run dev
